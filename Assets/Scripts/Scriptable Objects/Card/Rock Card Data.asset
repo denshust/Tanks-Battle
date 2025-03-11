@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7f8ce44e5b4ab58408d3e6c10942e6d6, type: 3}
+  m_Name: Rock Card Data
+  m_EditorClassIdentifier: 
+  cardName: Rock
+  cardBgColor: {r: 0.3132075, g: 0.3132075, b: 0.3132075, a: 1}
+  cardSprite: {fileID: 21300000, guid: 833c5ed6f730e4b42a5b311a0cc62f23, type: 3}
+  cardDescription: Rocks Card
+  cardNumber: 2

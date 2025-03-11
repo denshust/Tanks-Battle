@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd56a6f6d630d3e498b1c1c212946036, type: 3}
+  m_Name: Default Tank
+  m_EditorClassIdentifier: 
+  moveSpeed: 50
+  rotateSpeed: 1
+  minAngle: -45
+  maxAngle: 45
+  shootPower: 200
+  shootDamage: 50
+  bulletPrefab: {fileID: 5516706676862328142, guid: d1839384191003f479b60a699f8a5bdf, type: 3}
+  bodyMesh: {fileID: -1710623438894240154, guid: b1dbc00a9e23de640a0978000dee4b52, type: 3}
+  headMesh: {fileID: 3675141232269055286, guid: f100dc737f00caa469c0a3ad4a49dfc8, type: 3}
+  scale: {x: 10, y: 10, z: 10}
